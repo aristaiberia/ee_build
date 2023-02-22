@@ -1,0 +1,4 @@
+---
+collections:
+  - arista.cvp
+  - ansible.netcommon
